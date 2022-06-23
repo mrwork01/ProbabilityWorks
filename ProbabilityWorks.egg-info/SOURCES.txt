@@ -1,4 +1,6 @@
+README.md
 setup.py
+ProbabilityWorks/EdaDB.py
 ProbabilityWorks/GivenProbability.py
 ProbabilityWorks/ProbabilityDensity.py
 ProbabilityWorks/__init__.py
